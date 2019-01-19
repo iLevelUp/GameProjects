@@ -1,0 +1,11 @@
+1 ;Chern. ;Sergey ;28ans ;Nancy ;Bélar. ;0 ;GAR ;1 ;1.87m ;86 
+2 ;Cuffa. ;Joffr. ;29ans ;Nancy ;France ;0 ;DEF ;14 ;1.78m ;74 
+3 ;Diagne ;Modou ;23ans ;Nancy ;Sénég. ;0 ;DEF ;4 ;1.88m ;0 
+4 ;Cabaco ;Erick ;21ans ;Nancy ;Urugu. ;0 ;DEF ;24 ;1.86m ;0 
+5 ;Murat. ;Vince. ;29ans ;1.78m ;France ;0 ;DEF ;26 ;1.78m ;71 
+6 ;Diarra ;Alou ;35ans ;Nancy ;France ;0 ;MIL ;6 ;1.88m ;81 
+7 ;Cetout ;Julien ;30ans ;Nancy ;France ;0 ;DEF ;28 ;1.83m ;74 
+8 ;Dia ;Issiar ;29ans ;Nancy ;Sénég. ;0 ;ATT ;10 ;1.65m ;60 
+9 ;Manda. ;Chris. ;32ans ;Nancy ;France ;0 ;ATT ;12 ;1.72m ;62 
+10 ;Pedre. ;Benoît ;36ans ;Nancy ;France ;0 ;MIL ;25 ;1.78m ;71 
+11 ;Maous. ;Faito. ;18ans ;Nancy ;France ;0 ;DEF ;17 ;1.70m ;0 

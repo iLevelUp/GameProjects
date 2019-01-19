@@ -1,0 +1,11 @@
+1 ;Enyea. ;Vince. ;34ans ;Lille ;Niger. ;0 ;GAR ;1 ;1.82m ;87 
+2 ;Corch. ;Sébas. ;26ans ;Lille ;Franxe ;0 ;DEF ;2 ;1.75m ;65 
+3 ;Souma. ;Adama ;24ans ;Lille ;France ;0 ;DEF ;23 ;1.86m ;93 
+4 ;Basa ;Marko ;34ans ;Lille ;Monte. ;0 ;DEF ;25 ;1.89m ;86 
+5 ;Béria ;Franck ;33ans ;Lille ;France ;0 ;DEF ;18 ;1.77m ;76 
+6 ;Mavuba ;Rio ;33ans ;Lille ;France ;0 ;MIL ;24 ;1.72m ;74 
+7 ;Amadou ;Ibrah. ;23ans ;Lille ;France ;0 ;MIL ;6 ;1.84m ;84 
+8 ;Lopes ;Rony ;21ans ;Lille ;Portu. ;0 ;MIL ;17 ;1.74m ;0 
+9 ;DePré. ;Nicola ;26ans ;Lille ;France ;0 ;ATT ;12 ;1.82m ;77 
+10 ;Benzia ;Yassi. ;22ans ;Lille ;Algér. ;0 ;ATT ;9 ;1.79m ;71 
+11 ;Eder ;Eder ;29ans ;Lille ;Portu. ;0 ;ATT ;19 ;1.88m ;81 

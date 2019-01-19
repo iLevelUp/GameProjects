@@ -1,0 +1,11 @@
+1 ;Cardi. ;Yoan ;23ans ;Nice ;France ;0 ;GAR ;30 ;1.81m ;84 
+2 ;Souqu. ;Arnau. ;25ans ;Nice ;France ;0 ;MIL ;2 ;1.74m ;70 
+3 ;LeMar. ;Maxime ;27ans ;Nice ;France ;0 ;DEF ;20 ;1.85m ;77 
+4 ;Dante ;Dante ;33ans ;Nice ;Brésil ;0 ;DEF ;31 ;1.88m ;85 
+5 ;Dalbe. ;Henri. ;23ans ;Nice ;Brésil ;0 ;DEF ;29 ;1.82m ;0 
+6 ;Cypri. ;Wylan ;22ans ;Nice ;France ;0 ;MIL ;25 ;1.80m ;75 
+7 ;Seri ;Jean ;25ans ;Nice ;Côte. ;0 ;MIL ;6 ;1.68m ;65 
+8 ;Kozi. ;Vince. ;21ans ;Nice ;France ;0 ;MIL ;26 ;1.68m ;58 
+9 ;Belha. ;Younes ;27ans ;Nice ;Maroc ;0 ;MIL ;5 ;1.74m ;75 
+10 ;Eysse. ;Valen. ;25ans ;Nice ;France ;0 ;MIL ;13 ;1.81m ;73 
+11 ;Balot. ;Mario ;26ans ;Nice ;Itali ;0 ;ATT ;9 ;1.89m ;88 
