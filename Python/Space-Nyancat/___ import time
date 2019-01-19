@@ -1,0 +1,30 @@
+>>> import time
+>>> time.time()
+1481650503.846099
+>>> time.time()
+1481650507.157205
+>>> time.time()
+1481650508.36321
+>>> start = time.time()
+>>> time.time() - start
+10.856966972351074
+>>> time.time() - start
+13.790909051895142
+>>> time.time() - start
+15.537818908691406
+>>> time.time() - start
+16.793829917907715
+>>> int(time.time() - start)
+31
+>>> int(time.time() - start)
+33
+>>> int(time.time() - start)
+34
+>>> start = time.time()
+>>> int(time.time() - start)
+1
+>>> int(time.time() - start)
+2
+>>> int(time.time() - start)
+3
+>>> 
