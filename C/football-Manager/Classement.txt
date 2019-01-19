@@ -1,0 +1,16 @@
+8 Bordeaux 3
+7 Angers 3
+6 Nancy 3
+5 Paris 3
+4 Caens 0
+3 Lille 0
+2 Nice 0
+1 Marseille 0
+8 Caens 3
+7 Lille 3
+6 Nancy 3
+5 Marseille 1
+4 Paris 1
+3 Bordeaux 0
+2 Angers 0
+1 Nice 0

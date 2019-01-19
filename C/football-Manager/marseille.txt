@@ -1,0 +1,11 @@
+1 ;Pelé ;Yohann ;34ans ;Marse. ;France ;0 ;GAR ;16 ;1.96m ;89 
+2 ;Rolan. ;R ;31ans ;Marse. ;Portu. ;0 ;DEF ;6 ;1.89m ;77 
+3 ;Fanni ;Rod ;35ans ;Marse. ;France ;0 ;DEF ;24 ;1.83m ;81 
+4 ;Sakai ;Hiroki ;26ans ;Marse. ;Japon ;0 ;DEF ;2 ;1.83m ;70 
+5 ;Evra ;Patri. ;35ans ;Marse. ;France ;0 ;DEF ;21 ;1.75m ;76 
+6 ;Sertic ;Grégo. ;27ans ;Marse. ;France ;0 ;MIL ;27 ;1.83m ;76 
+7 ;Sanson ;Morgan ;22ans ;Marse. ;France ;0 ;MIL ;8 ;1.82m ;70 
+8 ;Lopez ;Maxime ;19ans ;Marse. ;France ;0 ;MIL ;27 ;1.67m ;58 
+9 ;Payet ;Dimit. ;30ans ;Marse. ;France ;0 ;ATT ;17 ;1.75m ;77 
+10 ;Cabela ;Rémy ;27ans ;Marse. ;France ;0 ;MIL ;7 ;1.71m ;68 
+11 ;Thauv. ;Flori. ;24ans ;Marse. ;France ;0 ;ATT ;26 ;1.70m ;70 

@@ -1,0 +1,11 @@
+1 ;Verco. ;Rémy ;36ans ;Caen ;France ;0 ;GAR ;1 ;1.85m ;81 
+2 ;Guilb. ;Frede. ;22ans ;Caen ;France ;0 ;DEF ;24 ;1.78m ;70 
+3 ;Genev. ;Romai. ;29ans ;Caen ;Haïti ;0 ;DEF ;29 ;1.82m ;79 
+4 ;Youss. ;Syam ;28ans ;Caen ;Tunis. ;0 ;DEF ;13 ;1.89m ;82 
+5 ;Bessat ;Vince. ;31ans ;Caen ;France ;0 ;MIL ;11 ;1.78m ;73 
+6 ;Karam. ;Yann ;18ans ;Caen ;France ;0 ;ATT ;7 ;1.85m ;0 
+7 ;Delap. ;Jonat. ;31ans ;Caen ;France ;0 ;MIL ;6 ;1.68m ;68 
+8 ;Adéoti ;Jordan ;28ans ;Caen ;Bénin ;0 ;MIL ;18 ;1.83m ;81 
+9 ;Féret ;Julien ;34ans ;Caen ;France ;0 ;MIL ;76 ;1.87m ;76 
+10 ;Rodel. ;Ronny ;27ans ;Caen ;France ;0 ;ATT ;12 ;1.92m ;82 
+11 ;Santi. ;Ivan ;27ans ;Caen ;Croat. ;0 ;ATT ;26 ;1.90m ;0 

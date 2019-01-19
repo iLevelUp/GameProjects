@@ -1,0 +1,11 @@
+1 ;Trapp ;Kevin ;24ans ;Paris ;Allem. ;0 ;GAR ;16 ;1.95 ;94 
+2 ;Meunie ;Thomas ;25ans ;Paris ;Belgiq ;0 ;DEF ;12 ;1.90m ;82 
+3 ;Silva ;Thiago ;32ans ;Paris ;Brésil ;0 ;DEF ;2 ;1.83m ;79 
+4 ;Marqi. ;Aoas ;22ans ;Paris ;Brésil ;0 ;DEF ;5 ;1.83m ;79 
+5 ;Kurza. ;Layvin ;24ans ;Paris ;France ;0 ;DEF ;20 ;1.82m ;74 
+6 ;Rabiot ;Adrien ;21ans ;Paris ;France ;0 ;MIL ;25 ;1.88m ;71 
+7 ;Pasto. ;Javier ;27ans ;Paris ;Argen. ;0 ;MIL ;10 ;1.87m ;75 
+8 ;Verati ;Marco ;24ans ;Paris ;Italie ;0 ;MIL ;6 ;1.65m ;60 
+9 ;Draxl. ;Julian ;23ans ;Paris ;Allem. ;0 ;MIL ;23 ;1.85m ;72 
+10 ;Cavani ;Edins. ;30ans ;Paris ;Urug. ;0 ;ATT ;9 ;1.84 ;71 
+11 ;DiMar. ;Angel ;29ans ;Paris ;Argen. ;0 ;MIL ;11 ;1.78m ;75 
